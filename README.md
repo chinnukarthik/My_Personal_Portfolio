@@ -1,14 +1,40 @@
-<<<<<<< HEAD
+<h1 align="center">Welcome to myPersonalPortfolio 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-    -blue.svg?cacheSeconds=2592000" />
+</p>
 
-# React + Vite
+> Passionate about building modern, responsive, and user-friendly web applications.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### 🏠 [Homepage](My profile and Experience)
 
-Currently, two official plugins are available:
+## Install
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- # [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+```sh
+npm install
+```
 
-# My_Personal_Portfolio
+## Usage
 
-> > > > > > > 2fa67946e11acd6cdc574161e2bb0966dc3c8b5f
+```sh
+npm create vite@latest
+```
+
+## Run tests
+
+```sh
+npm run dev
+```
+
+## Author
+
+👤 **Kartik**
+
+* Github: [@Chinnukarthik](https://github.com/Chinnukarthik)
+* LinkedIn: [@Sesham karthik](https://linkedin.com/in/Sesham karthik)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
