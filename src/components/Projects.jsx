@@ -3,7 +3,7 @@ import { FaArrowRightLong } from "react-icons/fa6";
 import { motion } from "framer-motion";
 
 // Image imports
-import ImageOne from "../assets/Project Images/image-one.avif";
+import ImageOne from "../assets/Project Images/image-one.jpg";
 import ImageTwo from "../assets/Project Images/image-two.jpg";
 import ImageThree from "../assets/Project Images/image-three.jpg";
 import ImageFour from "../assets/Project Images/image-four.jpg";

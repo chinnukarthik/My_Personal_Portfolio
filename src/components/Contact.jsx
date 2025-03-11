@@ -2,7 +2,7 @@ import React, { useRef, useState } from "react";
 import emailjs from "@emailjs/browser";
 import { FaPhoneAlt, FaWhatsapp, FaLinkedin, FaGithub } from "react-icons/fa";
 import { MdEmail } from "react-icons/md";
-import { easeOut, motion } from "framer-motion";
+import { motion } from "framer-motion";
 
 // contact content data
 const contactData = [
